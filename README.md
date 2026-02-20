@@ -1,13 +1,30 @@
-# PalindroneCheckerApp
-//intellij ideal
-//start -> Display welcome message -> Take user input -> check if string is palindrone -> End
-//objective
-//1.To check whether a given string is palindrone 
-//2.To understand java basic programme structure
-//3.To practice string manipulation
+# PalindroneCheckerApop
+// IntelliJ IDEA
+// Start → Display Welcome Message → Take User Input → Reverse String → Check if Palindrome → Display Result → End
 
-//topics covered 
-//1.java core concepts
-//2.programming logic
+Objective
 
-//useCase 1 :-palindrone
+To check whether a given string is a palindrome.
+To understand basic Java program structure.
+To practice string manipulation and looping concepts.
+
+Topics Covered
+
+Java Core Concepts
+Class and Main Method
+Scanner Class
+String Handling
+Programming Logic
+
+For Loop
+
+Conditional Checking
+Boolean Variables
+
+Use Case 2
+
+Palindrome Checker
+User enters a word.
+Program reverses the word.
+Compares original string with reversed string.
+Displays whether it is a palindrome or no
